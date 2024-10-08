@@ -37,27 +37,26 @@ robot.
 
 **Numero di oggetti per immagine** 30
 
+**Numero di oggetti saltati (skip)** 100
 
-Numero di oggetti saltati (skip) 100.
+**Tempo di elaborazione telecamera Deve essere inferiore alla distanza di trigger**.
 
-Tempo di elaborazione telecamera Deve essere inferiore alla distanza di trigger.
+**Index Conveyor non supportato**.
 
-Index Conveyor Non supportato.
-
-Telecamere Client TP/IP Non supportato.
+**Telecamere Client TP/IP non supportato**.
 
 # Requisiti
-**RW Add-In Prepared** 988-1 3121-1.
+**RW Add-In Prepared** 988-1 3121-1
 
-**Tracking Unit (DSQC2000)** 1551-1 3042-1.
+**Tracking Unit (DSQC2000)** 1551-1 3042-1
 
-**Tracking Unit Interface** 1552-1* /.
+**Tracking Unit Interface** 1552-1* /
 
-**Conveyor Tracking** 606-1 3103-1.
+**Conveyor Tracking** 606-1 3103-1
 
-**Multitasking** 623-1 3114-1.
+**Multitasking** 623-1 3114-1
 
-**Ethernet Extension Switch (1 IRB)** / 3014-1** .
+**Ethernet Extension Switch (1 IRB)** / 3014-1**
 
 **Ethernet Switch (2 IRB)** Device Hardware QOS (Quality of Service) switch is recommended.
 
@@ -73,15 +72,15 @@ Se viene utilizzata la Visione Integrata, sono necessarie le seguenti opzioni:
 
 Se viene utilizzata la Visione Esterna, sono disponibili le seguenti opzioni:
 
-**Profinet Controller/Device** 888-2 3020-1.
+**Profinet Controller/Device** 888-2 3020-1
 
-**Profinet Device** 888-3 3020-2.
+**Profinet Device** 888-3 3020-2
 
-**Profinet Anybus Device** 840-3 /.
+**Profinet Anybus Device** 840-3 /
 
-**Ethernet/IP Anybus Adapter** 840-1 3024-1.
+**Ethernet/IP Anybus Adapter** 840-1 3024-1
 
-**Ethernet/IP Scanner/Adapter** 841-1 3024-2.
+**Ethernet/IP Scanner/Adapter** 841-1 3024-2
 
-TCP/IP 616-1 /
+**TCP/IP** 616-1 /
 
